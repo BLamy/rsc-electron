@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
     "module": "commonjs",
     "noImplicitAny": true,
     "sourceMap": true,
