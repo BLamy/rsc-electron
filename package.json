@@ -23,7 +23,7 @@
     "@types/escape-html": "^1.0.2",
     "@types/node": "^20.2.5",
     "@types/react": "^18.2.8",
-    "@types/react-dom": "^18.2.4",
+    "@types/react-dom": "^18.2.5",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "electron": "^24.3.0",
